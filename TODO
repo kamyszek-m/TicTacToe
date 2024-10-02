@@ -1,0 +1,17 @@
+WHAT WILL BE IN THE GAME
+
+1. TITLE
+2. 3x3 GRID
+3. Displauy the info whos turn it is
+4. Display who won the game
+5. Display if it is a draw
+6. Restart button
+
+GAME FLOW FOR A CELL CLICK
+
+1. Track any clicks on our cell
+2. Check for the valid move and make sure if cell hasn't been clicked
+3. Update game state
+4. Validate game state
+5. Update changes made into the UI
+6. Repeat and last end the game
